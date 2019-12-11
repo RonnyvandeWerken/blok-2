@@ -1,0 +1,29 @@
+body {
+	background-color: black;
+}
+.container {
+	width: 600px;
+	height:600px;
+	background-color: white;
+	position: relative;
+}
+
+#imagebg {
+	position: relative;
+    top: 0;
+   left: 0;
+}	 
+#imgsmall {
+  position: absolute;
+  top: 462px;
+  left: 440px;
+}
+#button1 {
+	background-color: green;
+}
+#button2 {
+	background-color: green;
+}
+#button3 {
+	background-color: green;
+}
